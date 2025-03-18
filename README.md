@@ -8,8 +8,8 @@
 - **Database:** MySQL, MongoDB   
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakash847&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash847&layout=compact&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakash2708&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash2708&layout=compact&theme=dark)  
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-tyagi-a552a41b9/)  
