@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aakash Tyagi  
+# 👋 Hey, I'm Aakash   
 
 🚀 **Java Full Stack Developer** | Passionate about building scalable web applications  
 
