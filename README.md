@@ -5,7 +5,7 @@
 ## 🛠 Tech Stack  
 - **Frontend:** React.js, HTML, CSS, JavaScript,   
 - **Backend:** Java, Python, Spring Boot, REST APIs  
-- **Database:** MySQL, MongoDB   
+- **Database:** MySQL, MongoDB , PostgreSQL
 
 
 ## 🔗 Connect with Me  
